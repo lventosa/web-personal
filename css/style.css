@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-family: "Roboto";
+    padding-top: 42px
+}
+::selection {
+    background-color: #F6D55C;
+    color: #282828;
+}
+.navbar {
+    background-color: white;
+    font-family: "Roboto";
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 42px;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 20px;
+    color: black;
+    border-bottom:2px solid  #F0F0F0;
+    
+}
+.navbar a {
+    color: darkgrey;
+    margin-right: 18px;
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-top:10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-decoration: none;
+}
+.navbar a:visited {
+    color: darkgrey;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #F8F8F8;
+    color: #5F9EA0;
+    text-decoration: none;
+}
