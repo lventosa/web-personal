@@ -1,7 +1,9 @@
 body {
     background-color: white;
     font-family: "Roboto";
-    padding-top: 42px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 ::selection {
     background-color: #F6D55C;
@@ -22,12 +24,12 @@ body {
 }
 .navbar a {
     color: darkgrey;
-    margin-right: 56px;
+    margin-right: 32px;
     display: inline-block;
     padding-bottom: 10px;
     padding-top:10px;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
     text-decoration: none;
 }
 .navbar a:visited {
@@ -40,35 +42,42 @@ body {
     text-decoration: none;
 }
 .title {
+    margin: 0 auto;
     font-size: 20px;
     padding-top: 35px;
     max-width: 680px;
-    margin: 0 auto;
+}
+.header {
+    padding-left: 32px;
+    padding-right: 32px;
 }
 .high-light {
     color: #5F9EA0;
 }
 .container1 {
     padding-top: 25px;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 32px;
+    padding-right: 32px;
     line-height : 28px;
 }
-p {
+.container1 p {
     max-width: 680px;
     margin: 16px auto;
 }
+#content-wrap {
+    margin-top: 42px;
+    padding-bottom: 12px;  
+    flex: 1;  
+}
 .footer {
-    display: inline-block;
-    bottom: 0;
     width: 100%;
     background-color: #F8F8F8;
     color: #808080;
     text-align: center;
     font-size: 11px;
-    position: absolute;
     padding-bottom: 8px;
     padding-top: 8px;
+    bottom: 0;
 }
 .footer a {
     color: #5F9EA0;
