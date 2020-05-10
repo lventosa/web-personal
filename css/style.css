@@ -1,7 +1,7 @@
 body {
     background-color: white;
     font-family: "Roboto";
-    padding-top: 42px
+    padding-top: 42px;
 }
 ::selection {
     background-color: #F6D55C;
@@ -9,7 +9,6 @@ body {
 }
 .navbar {
     background-color: white;
-    font-family: "Roboto";
     position: fixed;
     top: 0;
     width: 100%;
@@ -23,7 +22,7 @@ body {
 }
 .navbar a {
     color: darkgrey;
-    margin-right: 18px;
+    margin-right: 56px;
     display: inline-block;
     padding-bottom: 10px;
     padding-top:10px;
@@ -39,4 +38,36 @@ body {
     background-color: #F8F8F8;
     color: #5F9EA0;
     text-decoration: none;
+}
+.first-paragraph {
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 80px;
+}
+.high-light {
+    color: #5F9EA0;
+}
+.container1 {
+    padding-top: 25px;
+    padding-left: 80px;
+    padding-right: 80px;
+    line-height : 28px;
+}
+p{
+    margin: 16px;
+}
+.footer {
+    display: inline-block;
+    bottom: 0;
+    width: 100%;
+    background-color: #F8F8F8;
+    color: #808080;
+    text-align: center;
+    font-size: 11px;
+    position: absolute;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.footer a {
+    color: #5F9EA0;
 }
