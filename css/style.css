@@ -39,10 +39,11 @@ body {
     color: #5F9EA0;
     text-decoration: none;
 }
-.first-paragraph {
+.title {
     font-size: 20px;
-    padding-top: 25px;
-    padding-left: 80px;
+    padding-top: 35px;
+    max-width: 680px;
+    margin: 0 auto;
 }
 .high-light {
     color: #5F9EA0;
@@ -53,8 +54,9 @@ body {
     padding-right: 80px;
     line-height : 28px;
 }
-p{
-    margin: 16px;
+p {
+    max-width: 680px;
+    margin: 16px auto;
 }
 .footer {
     display: inline-block;
