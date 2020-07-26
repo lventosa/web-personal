@@ -45,7 +45,7 @@ body {
     margin: 0 auto;
     font-size: 32px;
     padding-top: 40px;
-    max-width: 680px;
+    max-width: 1032px;
 }
 .header {
     padding-left: 32px;
@@ -55,7 +55,7 @@ body {
     color: #5F9EA0;
 }
 .container1 {
-    font-size: 18px;
+    font-size: 17px;
     padding-top: 25px;
     padding-left: 32px;
     padding-right: 32px;
