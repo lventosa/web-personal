@@ -57,17 +57,17 @@ body {
 .container1 {
     font-size: 17px;
     padding-top: 25px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
     line-height : 28px;
 }
 .container1 p {
     max-width: 1032px;
-    margin: 16px auto;
+    margin: 10px auto;
 }
 #content-wrap {
     margin-top: 42px;
-    padding-bottom: 12px;  
+    padding-bottom: 12px; 
     flex: 1;  
 }
 .footer {

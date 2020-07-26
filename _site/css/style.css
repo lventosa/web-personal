@@ -43,9 +43,9 @@ body {
 }
 .title {
     margin: 0 auto;
-    font-size: 32px;
-    padding-top: 40px;
-    max-width: 1032px;
+    font-size: 24px;
+    padding-top: 50px;
+    max-width: 900px;
 }
 .header {
     padding-left: 32px;
@@ -56,13 +56,13 @@ body {
 }
 .container1 {
     font-size: 17px;
-    padding-top: 25px;
+    padding-top: 20px;
     padding-left: 32px;
     padding-right: 32px;
     line-height : 28px;
 }
 .container1 p {
-    max-width: 1032px;
+    max-width: 900px;
     margin: 16px auto;
 }
 #content-wrap {
