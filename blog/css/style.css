@@ -6,7 +6,7 @@ body {
     min-height: 100vh;
 }
 ::selection {
-    background-color: #F6D55C;
+    background-color: #d2b4de;
     color: #282828;
 }
 .navbar {
@@ -43,9 +43,9 @@ body {
 }
 .title {
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 32px;
     padding-top: 40px;
-    max-width: 680px;
+    max-width: 1032px;
 }
 .header {
     padding-left: 32px;
@@ -55,18 +55,19 @@ body {
     color: #5F9EA0;
 }
 .container1 {
+    font-size: 18px;
     padding-top: 25px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
     line-height : 28px;
 }
 .container1 p {
-    max-width: 680px;
-    margin: 16px auto;
+    max-width: 1032px;
+    margin: 10px auto;
 }
 #content-wrap {
     margin-top: 42px;
-    padding-bottom: 12px;  
+    padding-bottom: 12px; 
     flex: 1;  
 }
 .footer {
