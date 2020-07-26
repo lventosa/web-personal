@@ -24,12 +24,12 @@ body {
 }
 .navbar a {
     color: darkgrey;
-    margin-right: 32px;
+    margin-right: 28px;
     display: inline-block;
     padding-bottom: 10px;
     padding-top:10px;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
     text-decoration: none;
 }
 .navbar a:visited {
