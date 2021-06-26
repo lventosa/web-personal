@@ -52,11 +52,11 @@ body {
     font-weight: bold;
     font-size: 20px;
     padding-top: 50px;
-    padding-left: 32px;
+    padding-left: 24px;
     max-width: 1050px;
 }
 .header {
-    padding-left: 32px;
+    padding-left: 24px;
     padding-right: 32px;
 }
 .high-light {
