@@ -3,4 +3,4 @@
 ### Description
 This is the source code of my personal website http://lauraventosa.com 
 
-I'm not an HTML/CSS developer, the site was built just for fun. 
+This site was built just for fun and out of boredom during the 2020 lockdown. 
