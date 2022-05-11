@@ -1,16 +1,16 @@
 body {
-    background-color: #272B44;
+    background-color: #4c3b48;
     font-family: "Lora";
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 ::selection {
-    background-color: #E77555;
+    background-color: #ec7777;
     color: #E4C2C2;
 }
 .navbar {
-    background-color: #272B44;
+    background-color: #4c3b48;
     position: fixed;
     top: 0;
     width: 100%;
@@ -18,7 +18,7 @@ body {
     box-sizing: border-box;
     text-align: right;
     font-size: 20px;
-    color: #E77555;
+    color: #ec7777;
     border-bottom: 1px solid  #E4C2C2;
     
 }
@@ -37,7 +37,7 @@ body {
     text-decoration: none;
 }
 .navbar a:hover {
-    color: #E77555;
+    color: #ec7777;
     text-decoration: none;
 }
 .title {
@@ -61,7 +61,7 @@ body {
     padding-right: 32px;
 }
 .high-light {
-    color: #E77555;
+    color: #ec7777;
 }
 .container1 {
     font-size: 17px;
