@@ -1,12 +1,12 @@
 body {
-    background-color: #4c3b48;
-    font-family: "Lora";
+    background-color: #e1d9cd;
+    font-family: "Rajdhani", sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 .navbar {
-    background-color: #4c3b48;
+    background-color: #e1d9cd;
     position: fixed;
     top: 0;
     width: 100%;
@@ -15,11 +15,11 @@ body {
     text-align: right;
     font-size: 20px;
     color: #b6c2e9;
-    border-bottom: 1px solid  #E4C2C2;
+    border-bottom: 1px solid  #302f2e;
     
 }
 .navbar a {
-    color: #E4C2C2;
+    color: #302f2e;
     margin-right: 28px;
     display: inline-block;
     padding-bottom: 10px;
@@ -29,27 +29,25 @@ body {
     text-decoration: none;
 }
 .navbar a:visited {
-    color: #E4C2C2;
+    color: #302f2e;
     text-decoration: none;
 }
 .navbar a:hover {
-    color: #d4799a;
+    color: #633948;
     text-decoration: none;
 }
 .title {
     margin: 0 auto;
-    font-weight: bold;
     font-size: 24px;
     padding-top: 50px;
-    max-width: 1050px;
+    max-width: 950px;
 }
 .section {
     margin: 0 auto;
-    font-weight: bold;
     font-size: 20px;
     padding-top: 50px;
     padding-left: 24px;
-    max-width: 1075px;
+    max-width: 975px;
     text-decoration: underline;
 }
 .header {
@@ -57,22 +55,22 @@ body {
     padding-right: 32px;
 }
 .high-light {
-    color: #d4799a;
+    color: #633948;
 }
 .container1 {
     font-size: 17px;
     padding-top: 5px;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
     line-height : 28px;
 }
 .container1 p {
-    max-width: 1050px;
+    max-width: 950px;
     margin: 16px auto;
 }
 #content-wrap {
     margin-top: 42px;
     padding-bottom: 12px;  
     flex: 1;  
-    color: #E4C2C2;
+    color: #302f2e;
 }
